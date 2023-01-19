@@ -1,6 +1,0 @@
-{
-  "projectId": "wore59",
-  "e2e": {
-    "baseUrl": "https://example.cypress.io"
-  }
-}
