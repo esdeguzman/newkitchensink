@@ -43,6 +43,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^12.3.0"
+    "cypress": "^12.3.0",
+    "eslint": "^8.32.0",
+    "eslint-plugin-cypress": "^2.12.1"
   }
 }
